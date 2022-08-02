@@ -9,20 +9,11 @@ Versão do Unity: **2021.3.7f1**<br/>
 
 Primeira atividade do módulo:<br/>
 Fazer um fluxograma de uma atividade.<br/>
-[Arquivos da Atividade]( )
+[Arquivos da Atividade](https://github.com/adriano-Peretti/Cinemachine/tree/main/Files )
 
-<img src="/Files/Module1/Atividade.PNG" alt="project"/>
-
-| Main | Remote |
-| :----: | :----: |
-| <img src="/Files/Module11/Main.PNG" alt="project"/> | <img src="/Files/Module11/Remote.PNG" alt="project"/> |
-
-Repositório: https://github.com/AlanLee1/Mentorama-Csharp
+<img src="/Files/Cinemachine.PNG" alt="project"/>
 
 
-| Main | Remote |
-| :----: | :----: |
-| <img src="/Files/Module11/Main.PNG" alt="project"/> | <img src="/Files/Module11/Remote.PNG" alt="project"/> |
+Repositório: https://github.com/adriano-Peretti/Cinemachine
 
-Repositório: https://github.com/AlanLee1/Mentorama-Csharp
--->
+
