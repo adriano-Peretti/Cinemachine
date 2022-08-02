@@ -11,7 +11,7 @@ Primeira atividade do módulo:<br/>
 Fazer um fluxograma de uma atividade.<br/>
 [Arquivos da Atividade](https://github.com/adriano-Peretti/Cinemachine/tree/main/Files )
 
-<img src="/Files/Cinemachine.PNG" alt="project"/>
+<img src="/Files/Cinemachine.png" alt="project"/>
 
 
 Repositório: https://github.com/adriano-Peretti/Cinemachine
